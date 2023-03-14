@@ -3,7 +3,7 @@
 ### Technologies used:
 * Typescript -  too reduce bugs
 * Tailwind CSS - styling for the site/application
-* HeroIcons - icons for the site
+* HeroIcons - is a tailwind css icons library and will work great for the site
 * Stepzen - powered the entire site will also allow the introduction of graphql
 * MediaStack API - api sed for the live news on the site
 * Nextjs 13 - as the server component for the site
