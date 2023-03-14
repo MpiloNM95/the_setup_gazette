@@ -14,3 +14,12 @@
 #### Features of the site 
 - Dark Mode (for eye sensitivity)
 - Light Mode (default)
+### Setting up nextjs 13 and tailwind css
+We are using the tailwind css template with next js 13
+```
+npx create-next-app -e with-tailwindcss ./
+```
+The "./" applies the folder or repo you want the nextjs 13 and taildwincss to built in or otherwise you would have your project name at the end of the demand like the example below
+```
+npx create-next-app -e with-tailwindcss my-project-name
+```
