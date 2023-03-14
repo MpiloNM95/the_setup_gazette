@@ -1,7 +1,14 @@
-import React from 'react';
+import '../styles/globals.css'
 
-function Homepage() {
-  return <div>Homepage</div>;
+export default function RootLayout({
+    children,
+}: {
+    children: React.ReactNode;
+}) {
+    return (
+        <html>
+            <head />
+            <body>{children}</body>
+        </html>
+    );
 }
-
-export default Homepage;
