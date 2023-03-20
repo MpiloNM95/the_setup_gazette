@@ -14,6 +14,11 @@
 #### Features of the site 
 - Dark Mode (for eye sensitivity)
 - Light Mode (default)
+### Installation of Tecnologies used:
+- Heroicons - when using reactjs user should run the following command in the terminal
+```bash
+npm add @heroicons/react 
+```
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.2)](https://tailwindcss.com/blog/tailwindcss-v3-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
