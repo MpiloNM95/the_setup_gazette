@@ -20,7 +20,7 @@ function Header() {
           {/* Dark Mode Buttom */}
 
           <button className="hidden md:inline bg-slate-900 text-white px-4 lg:px-8 py-2 lg:py-4 rounded-full dark:bg-slate-800">
-            Subscribe Now
+            Subrscribe Now
           </button>
         </div>
       </div>
