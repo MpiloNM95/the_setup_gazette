@@ -1,5 +1,6 @@
 import { notFound } from "next/navigation";
 
+
 type Props = {
     searchParams?: Article;
 }
